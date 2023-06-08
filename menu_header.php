@@ -6,7 +6,7 @@
                   <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
                       <a href="index.html" class="logo">
-                          Edu Meeting
+                          Denver Gregorio
                       </a>
                       <!-- ***** Logo End ***** -->
                       <!-- ***** Menu Start ***** -->
